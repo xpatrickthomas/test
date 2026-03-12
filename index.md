@@ -32,7 +32,7 @@
 
 ---
 
-<img src="[https://example.com/image.png](https://www.dropbox.com/scl/fi/c0o7acud7isaw3uym8g18/abk_earth_day.gif?rlkey=uaecyw5ykopqsgkqs2h8qd0s3&dl=0)" alt="Test Kitten">
+<img src="[[https://example.com/image.png](https://github.com/xpatrickthomas/test/blob/main/aka_pencil_case.jpg)" alt="Test Kitten">
 
 ---
 
