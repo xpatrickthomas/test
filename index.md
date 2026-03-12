@@ -1,6 +1,6 @@
 # This is a test
 
-**Patrick**
+# Index
 
 **[Mail me](mailto:info@patrickthomas.com)**
 
