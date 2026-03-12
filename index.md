@@ -32,7 +32,7 @@
 
 ---
 
-<img src="[[https://example.com/image.png](https://github.com/xpatrickthomas/test/blob/main/aka_pencil_case.jpg)" alt="Test Kitten">
+<img src="[https://github.com/xpatrickthomas/test/blob/main/aka_pencil_case.jpg]" alt="Test Kitten">
 
 ---
 
