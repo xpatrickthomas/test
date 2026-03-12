@@ -3,6 +3,13 @@
 ## Index
 
 [Project description](#project-description)
+[Briefing](#briefing)
+[Deliverables](#deliverables)
+[Tech Specs](#tech-specs)
+[Upload](#upload)
+
+
+
 
 **[Mail me](mailto:info@patrickthomas.com)**
 
@@ -13,3 +20,11 @@
 ___upload___
 
 ## Project description
+
+## Briefing
+
+## Deliverables
+
+## Tech Specs
+
+## Upload
